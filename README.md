@@ -6,7 +6,7 @@ Register AirDrop : https://t.me/warriorclan_bot/start?startapp=BAYUMAVLOG
 
 How To Run 
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/warrior-clan.git
 ```
 ```
 cd warrior-clan
